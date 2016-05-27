@@ -1,0 +1,6 @@
+AA	wikiPageRedirects	BB
+AA	wikiPageRedirects	BB
+AA	wikiPageRedirects	CC
+XX	wikiPageRedirects	YY
+XX	wikiPageRedirects	ZZ
+BB	wikiPageRedirects	EE
